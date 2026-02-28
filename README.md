@@ -1,16 +1,17 @@
-# React + Vite
+🎓 Student Loan Interest Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern interactive dashboard for projecting UK Student Loan repayments under Plan 2 and Plan 5, built with Vite, React, Tailwind CSS, and shadcn/ui.
 
-Currently, two official plugins are available:
+This tool helps users understand:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+How much they’ll repay over time
 
-## React Compiler
+When their loan is written off
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The total cost including interest
 
-## Expanding the ESLint configuration
+The opportunity cost if repayments were invested instead (e.g. S&P 500 average returns)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+can be accessed at https://y-saleh.github.io/interestcalculator/
