@@ -1,4 +1,7 @@
-🎓 Student Loan Interest Dashboard
+🎓 # Student Loan Interest Dashboard
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A modern interactive dashboard for projecting UK Student Loan repayments under Plan 2 and Plan 5, built with Vite, React, Tailwind CSS, and shadcn/ui.
 
